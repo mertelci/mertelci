@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mert Elçi</h1>
 <h3 align="center">A student/developer from Turkey</h3>
 
-- 🔭 I’m currently working on [8-Puzzle Game](https://mertelci.github.io/generic.html)
+- 🔭 I’m currently working on [8-Puzzle Game]([https://mertelci.github.io/generic.html](https://github.com/mertelci/8-Puzzle))
 
 - 🌱 I’m currently learning **HTML,JavaScript,CSS and React**
 
