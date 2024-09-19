@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mert Elçi</h1>
-<h3 align="center">A student/developer from Turkey</h3>
+<h3 align="center">A developer from Turkey</h3>
 
 - 🔭 I’m currently working on [8-Puzzle Game](https://github.com/mertelci/8-Puzzle)
 
